@@ -7,22 +7,24 @@ redirect_from:
   - /about.html
 ---
 
+# Konstantinos Bellos
+
 Welcome to my personal website.
 
-I am Konstantinos Bellos, a professional in [your field or profession].
-
-## About Me
-
-Write a short introduction about yourself here.
+I am a professional specializing in [your field].
 
 ## Experience
 
-Add a short summary of your work experience here.
+Add your professional experience here.
 
 ## Education
 
-Add your university, degree, and qualifications here.
+Add your education here.
 
-## Interests
+## Skills
 
-GuitarAdd your professional interests, research topics, or areas of expertise here.
+Add your skills here.
+
+## Contact
+
+Add your contact details here.
