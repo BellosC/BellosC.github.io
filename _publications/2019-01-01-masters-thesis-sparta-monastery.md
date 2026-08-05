@@ -1,9 +1,9 @@
 ---
-title: 'Τρισδιάστατη αποτύπωση του καθολικού και του παρεκκλησίου της μονής των Αγίων Τεσσαράκοντα Μαρτύρων στη Σπάρτη'
+title: 'Three-dimensional documentation of the katholikon and chapel of the Monastery of the Forty Martyrs in Sparta using terrestrial laser scanning, architectural drawing production, and 3D printing.'
 collection: publications
 category: books
 permalink: /publication/2019-01-01-masters-thesis-sparta-monastery
-excerpt: 'Three-dimensional documentation of the katholikon and chapel of the Monastery of the Forty Martyrs in Sparta using terrestrial laser scanning, architectural drawing production, and 3D printing.'
+excerpt: 'Τρισδιάστατη αποτύπωση του καθολικού και του παρεκκλησίου της μονής των Αγίων Τεσσαράκοντα Μαρτύρων στη Σπάρτη'
 date: 2019-01-01
 venue: 'Diploma Thesis, School of Rural and Surveying Engineering, Aristotle University of Thessaloniki'
 citation: 'Μπέλλος, Κ. (2019). «Τρισδιάστατη αποτύπωση του καθολικού και του παρεκκλησίου της μονής των Αγίων Τεσσαράκοντα Μαρτύρων στη Σπάρτη». Διπλωματική Εργασία, Τμήμα Αγρονόμων και Τοπογράφων Μηχανικών, Πολυτεχνική Σχολή ΑΠΘ, Ελλάδα.'
