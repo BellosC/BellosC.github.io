@@ -25,4 +25,4 @@ Add your university, degree, and qualifications here.
 
 ## Interests
 
-Add your professional interests, research topics, or areas of expertise here.
+GuitarAdd your professional interests, research topics, or areas of expertise here.
