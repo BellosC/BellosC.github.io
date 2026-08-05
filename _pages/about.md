@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my personal website.
 
-I am a professional specializing in [your field].
+<!--I am a professional specializing in [your field].
 
 ## Experience
 
@@ -27,4 +27,4 @@ Add your skills here.
 
 ## Contact
 
-Add your contact details here.
+Add your contact details here.-->
