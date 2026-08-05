@@ -27,10 +27,10 @@ author:
   name             : "Konstantinos Bellos CV"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "France"
+  employer         : "CERN"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "costas.bellos@hotmail.com" 
 
   # Academic websites
   academia         : # URL
